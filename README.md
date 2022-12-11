@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🔭 Hi there! I am a self-motivated software engineer, a student in operations research at Cornell Tech.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yueqianma&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yueqian-ma&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yueqianma&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
 
 ### Grinding Zone
 
