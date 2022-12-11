@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/yueqianma)](https://www.github.com/yueqianma)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yueqian-ma/)](https://www.linkedin.com/in/yueqian-ma/) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/iPhone15/](https://leetcode.com/iPhone15/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/iPhone15/)
+
+
 
 🔭 Hi there! I am a self-motivated software engineer, a student in operations research at Cornell Tech.
 
